@@ -1,0 +1,54 @@
+    header {
+
+    background-color: aliceblue;
+    height: 50px;
+    }
+
+    nav  { 
+    max-width: 1200px;
+    margin: 0 auto;
+    }
+
+    ul { 
+    list-style-type: none;
+    padding: 16px;
+    display: flex;
+    justify-content: space-around;
+    }
+
+    li { 
+    margin: 0;
+    }
+
+    a { 
+        text-decoration: none;
+    color: black;
+    padding: 15px 20px;
+    transition: background 0.3s;
+    text-align: center;
+    }
+
+
+    .item { 
+    width: 10em;
+
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
